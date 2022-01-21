@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fsbettecher
 - 👀 I’m interested in Data Science, Power BI, DBA and SQL
 - 🌱 I’m currently learning SQL language and Power BI
-- 💞️ I’m looking to collaborate on
+- 💞️ I’m looking to collaborate on Python and SQL projects
 - 📫 How to reach me:
 - felipebettecher@hotmail.com
 - felipebettecher@gmail.com
