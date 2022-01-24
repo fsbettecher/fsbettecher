@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @fsbettecher
-- 👀 I’m interested in Data Science, Power BI, DBA and SQL
-- 🌱 I’m currently learning SQL language and Power BI
-- 💞️ I’m looking to collaborate on Python and SQL projects
+- 👋 Hi, I’m Felipe Silva Bettecher
+- 🎓 I'm graduated in Chemistry Engineering
+- 📊 Studying Data Science & Analytics at USP/Esalq
+- 👀 Interested in Data Science, Power BI, DBA and SQL
+- 🌱 Currently learning SQL language and Power BI
 - 📫 How to reach me:
 - felipebettecher@hotmail.com
 - felipebettecher@gmail.com
