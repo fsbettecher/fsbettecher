@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Felipe Silva Bettecher
 - 🎓 I'm graduated in Chemistry Engineering
-- 📊 Studying Data Science & Analytics at USP/Esalq
-- 👀 Interested in Data Science, Power BI, DBA and SQL
-- 🌱 Currently learning SQL language and Power BI
+- 📊 MBA in Data Science & Analytics at USP/Esalq
+- 👀 Interested in Data Engineering, ETL, DBA and SQL
+- 🌱 Currently learning SQL language, Python and ELT
 - 📫 How to reach me:
 - felipebettecher@hotmail.com
 - felipebettecher@gmail.com
