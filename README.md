@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Felipe Silva Bettecher
-- 🎓 I'm graduated in Chemistry Engineering
+- 🎓 Graduated in Chemistry Engineering
 - 📊 MBA in Data Science & Analytics at USP/Esalq
 - 👀 Interested in Data Engineering, ETL, DBA and SQL
 - 🌱 Currently learning SQL language, Python and ELT
