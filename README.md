@@ -1,12 +1,13 @@
-- 👋 Hi, I’m Felipe Silva Bettecher
+<h1>👋 Hi, I’m Felipe Silva Bettecher</h1>
+
 - 🎓 Graduated in Chemistry Engineering
 - 📊 MBA in Data Science & Analytics at USP/Esalq
 - 👀 Interested in Data Engineering, ETL, DBA and SQL
-- 🌱 Currently learning SQL language, Python and ELT
+- 🌱 Currently learning SQL language, Python and ELT/ELT
 - 📫 How to reach me:
-- felipebettecher@hotmail.com
-- felipebettecher@gmail.com
-- https://www.linkedin.com/in/felipe-bettecher
+  - felipebettecher@hotmail.com
+  - felipebettecher@gmail.com
+  - https://www.linkedin.com/in/felipe-bettecher
 
 <!---
 fsbettecher/fsbettecher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
